@@ -10,34 +10,34 @@
 
 <ul>
   <li>What variable(s) are considered the target(s) for your model?
-  <li></li></li>
+  <ul><li></li></ul></li>
   </ul>
   
 <ul>
   <li>What variable(s) are considered to be the features for your model?
-  <li></li></li>
+  <ul><li></li></ul></li>
   </ul>
   
 <ul>
   <li>What variable(s) are neither targets nor features, and should be removed from the input data?
-  <li></li></li>
+  <ul><li></li></ul></li>
   </ul>
 
 <h3>Compiling, Training, and Evaluating the Model</h3>
 
 <ul>
   <li>How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  <li></li></li>
+  <ul><li></li></ul></li>
   </ul>
   
 <ul>
   <li>Were you able to achieve the target model performance?
-  <li></li></li>
+  <ul><li></li></ul></li>
   </ul>
   
 <ul>
   <li>What steps did you take to try and increase model performance?
-  <li></li></li>
+  <ul><li></li></ul></li>
   </ul>
 
 <h2>Summary</h2>

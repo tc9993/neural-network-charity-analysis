@@ -97,5 +97,9 @@
 <h2>Summary</h2>
 
 <h3>Overall Results</h3>
-
+<p>
+  Overall, the program was only able to correctly identify application success ~72% of the time, which did not meet the 75% goal.
+  </p>
 <h3>Recommendation</h3>
+<p>
+  If I were to continue with optimization, I would first further examine the data to see if there are any columns that seemingly do not play as large of a factor in determining success, I did not do this through the first four attempts as the columns seemed rather relevant when reading their titles.  Some other optimizations that could occur would be changing the activations, neuron counts, and number of hidden layers, though that would require making the change, testing the model, and then repeating as needed.

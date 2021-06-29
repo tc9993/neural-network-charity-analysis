@@ -44,24 +44,24 @@
   </ul>
   
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attempt1_define.GIF?raw=true' alt='Attempt 1 Defined'><br>
+  <b>Figure 1.1:</b> Attempt 1 Defined
 </p>
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attempt1_outcome.GIF?raw=true' alt='Attempt 1 Outcome'><br>
+  <b>Figure 1.2:</b> Attempt 1 Outcome
 </p>
 <p><b>Attempt 1</b></p>
 <p>The first attempt, to establish a baseline, used 2 hidden layers with the first consisting of 80 neurons, the second 30 (Figure 1.1).  Both hidden layers used ReLu as the activation, while the output used Sigmoid.  The outcome was an accuracy of 72.4%, below the 75% goal (Figure 1.2).
 </p>
 
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attempt2_define.GIF?raw=true' alt='Attempt 2 Defined'><br>
+  <b>Figure 2.1:</b> Attempt 2 Defined
 </p>
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attemp2_outcome.GIF?raw=true' alt='Attempt 2 Outcome'><br>
+  <b>Figure 2.2:</b> Attempt 2 Outcome
 </p>
 <p><b>Attempt 2</b></p>
 <p>
@@ -69,12 +69,12 @@
 </p>
 
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attempt3_define.GIF?raw=true' alt='Attempt 3 Defined'><br>
+  <b>Figure 3.1:</b> Attempt 3 Defined
 </p>
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attempt3_outcome.GIF?raw=true' alt='Attempt 3 Outcome'><br>
+  <b>Figure 3.2:</b> Attempt 3 Outcome
 </p>
 <p><b>Attempt 3</b></p>
 <p>
@@ -82,12 +82,12 @@
 </p>
 
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attempt4_define.GIF?raw=true' alt='Attempt 4 Defined'><br>
+  <b>Figure 4.1:</b> Attempt 4 Defined
 </p>
 <p align=center>
-  <img src='' alt=''><br>
-  <b>Figure :</b> Attempt 
+  <img src='https://github.com/tc9993/neural-network-charity-analysis/blob/main/Resources/attempt4_outcome.GIF?raw=true' alt='Attempt 4 Outcome'><br>
+  <b>Figure 4.2:</b> Attempt 4 Outcome
 </p>
 <p><b>Attempt 4</b></p>
 <p>

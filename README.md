@@ -42,6 +42,57 @@
   <li>Were you able to achieve the target model performance?</li>
   <li>What steps did you take to try and increase model performance?</li>
   </ul>
+  
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p><b>Attempt 1</b></p>
+<p>The first attempt, to establish a baseline, used 2 hidden layers with the first consisting of 80 neurons, the second 30 (Figure 1.1).  Both hidden layers used ReLu as the activation, while the output used Sigmoid.  The outcome was an accuracy of 72.4%, below the 75% goal (Figure 1.2).
+</p>
+
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p><b>Attempt 2</b></p>
+<p>
+  To try and hit the 75% goal, I increased the number of nodes were increased for the first and second layers to 100 and 45 respectively (Figure 2.1) for the second attempt.  The end result was an accuracy of 72.4% (Figure 2.2).
+</p>
+
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p><b>Attempt 3</b></p>
+<p>
+  For attempt 3, a third hidden layer was added and contained 15 neurons (Figure 3.1).  Once again the accuracy registered at 72.4%, below the threshold (Figure 3.2).
+</p>
+
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p align=center>
+  <img src='' alt=''><br>
+  <b>Figure :</b> Attempt 
+</p>
+<p><b>Attempt 4</b></p>
+<p>
+  For the fourth and final attempt, I upped the number of neurons in the second 2 of 3 hidden layers to 60 and 30 respectively, followed by adding a fourth layer with a Sigmoid activation (Figure 4.1).  This ended with an accuracy of 72.3%, once again below the 75% goal (Figure 4.2).
+</p>
 
 <h2>Summary</h2>
 
